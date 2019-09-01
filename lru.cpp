@@ -1,6 +1,6 @@
 #include<iostream>
 #include <unordered_map>
-#include "deque.cpp"
+#include "deque.h"
 
 using namespace std;
 
